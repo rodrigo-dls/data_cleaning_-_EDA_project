@@ -215,8 +215,3 @@ This query ranks companies by the number of layoffs they’ve carried out each y
 ## Conclusions
 
 This project demonstrates how SQL can be effectively used to conduct a complete data analysis process, from data cleaning to exploratory analysis. Through this analysis, valuable insights were uncovered about global layoffs, such as yearly trends, monthly progressions, and the companies most affected. This project highlights the versatility of SQL in handling large datasets and providing meaningful insights for business analysis.
-
-## Conclusions
-
-This project demonstrates how SQL can be effectively used to conduct a complete data analysis process, from data cleaning to exploratory analysis. Through this analysis, valuable insights were uncovered about global layoffs, such as yearly trends, monthly progressions, and the companies most affected. This project highlights the versatility of SQL in handling large datasets and providing meaningful insights for business analysis.
-
